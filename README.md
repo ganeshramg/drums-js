@@ -6,5 +6,6 @@ I created a drum player for learning HTML,CSS,JS.
 2. Extract it to a location
 3. Copy the path of the index.html file and paste it in the browser and go
 4. Click on the images to produce drum sounds, open console to know the sound file names listed as {name}.mp3
+5. Alternatively, you could use keys from a to l to trigger these sounds :)
 
 ## Thank you
